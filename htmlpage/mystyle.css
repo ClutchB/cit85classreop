@@ -1,0 +1,15 @@
+p {
+    color: slateblue
+
+}
+
+
+a {
+    color: tomato
+
+}
+ul.class{
+    list-style-type: disc
+    background-color: blue
+    margin: 10px
+}
