@@ -1,0 +1,16 @@
+h1 link {
+    color:red;
+  
+ }
+ 
+h2 visited {   
+    color: green;
+ }
+  
+ h3 hoover { 
+    color: hotpink;
+  }
+  
+  h4 active {
+    color: blue;
+  }
